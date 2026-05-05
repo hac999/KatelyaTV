@@ -1062,7 +1062,7 @@ pnpm format
 
 如果 KatelyaTV 对您有帮助，欢迎通过以下方式支持项目：
 
-**免费支持**：
+**免费支持***：
 
 - ⭐ [GitHub 点 Star](https://github.com/katelya77/KatelyaTV/stargazers)
 - 🍴 [Fork 项目](https://github.com/katelya77/KatelyaTV/fork)
