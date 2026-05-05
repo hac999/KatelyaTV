@@ -371,7 +371,7 @@ curl -H "Authorization: Bearer $UPSTASH_TOKEN" \
    wrangler d1 create katelyatv-db
    ```
 
-2. **初始化数据库表**：
+2. **初始化数据库表***：
 
    ```bash
    wrangler d1 execute katelyatv-db --file=./scripts/d1-init.sql
