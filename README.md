@@ -245,7 +245,7 @@ wrangler d1 create katelyatv-db
 wrangler d1 execute katelyatv-db --file=./scripts/d1-init.sql
 ```
 
-5. **配置数据库绑定** → 在 `wrangler.toml` 中添加数据库 ID
+5. **配置数据库绑定*** → 在 `wrangler.toml` 中添加数据库 ID
 
 ---
 
